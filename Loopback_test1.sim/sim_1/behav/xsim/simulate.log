@@ -1,0 +1,3 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Warning: [Unisim MMCME2_ADV-21] Input CLKIN1 is stopped at time               509824. Reset is required when input clock returns. Instance top_tb.top.GTP_TX_RX.gtwizard_0_support_i.inst.gt_usrclk_source.txoutclk_mmcm0_i.mmcm_adv_inst 
